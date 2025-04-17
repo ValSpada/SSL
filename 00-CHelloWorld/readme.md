@@ -6,5 +6,6 @@
 - **Nombre:** Valentín Francisco
 
 **Indicaciones**
-- **Compilador**: GCC Versión 14.2
+- **Compilador y versión**: GCC Versión 14.2
 - **Versión de C que compila:** C23
+- **Verificación de la versión de C:** Busqué en la documentación de gcc la versión que compilaba GCC 14.2
